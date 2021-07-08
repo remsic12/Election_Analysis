@@ -32,7 +32,7 @@ TOTAL VOTES= 369,711
 
 The winner of the election was:
 
-*Candidate Diana DeGette, who recieved 82.8% of the total vote with 272,892 votes.
+* Candidate Diana DeGette, who recieved 82.8% of the total vote with 272,892 votes.
 
 ##Challenge Overview
 
