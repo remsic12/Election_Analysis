@@ -42,12 +42,11 @@ There was 379,111 votes cast in the election.
 
   * Candidate Diana DeGette, who recieved 82.8% of the total vote with 272,892 votes.
 
-
-![Capture](https://user-images.githubusercontent.com/79228491/124972543-1dcc3780-dff0-11eb-8bb1-e965c340210f.PNG)
+![Capture](https://user-images.githubusercontent.com/79228491/124972625-38061580-dff0-11eb-9223-081a30bfe74a.PNG)
 
 
 ## Challenge Overview
-The purpose of the challenge was to provide Tom with an indepth look at the county results from the election analysis we provided him. The second look we provided gave inisght into which county had the largest turnout (Denver) as well as the turnout numbers for Arapahoe and Jefferson County.![Uploading Capture.PNG…]()
+The purpose of the challenge was to provide Tom with an indepth look at the county results from the election analysis we provided him. The second look we provided gave inisght into which county had the largest turnout (Denver) as well as the turnout numbers for Arapahoe and Jefferson County.
 
 
 ## Challenge Summary
