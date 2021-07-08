@@ -42,6 +42,7 @@ There was 379,111 votes cast in the election.
 
   * Candidate Diana DeGette, who recieved 82.8% of the total vote with 272,892 votes.
 
+
 ![Capture](https://user-images.githubusercontent.com/79228491/124972543-1dcc3780-dff0-11eb-8bb1-e965c340210f.PNG)
 
 
