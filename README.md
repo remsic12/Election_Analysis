@@ -18,21 +18,21 @@ The analysis of the election show that:
 
 There was 379,111 votes cast in the election.
 
-The candidates were:
-* Charles Casper Stockham
-* Diana DeGette
-* Raymon Anthony Doane
+* The candidates were:
+  * Charles Casper Stockham
+  * Diana DeGette
+  * Raymon Anthony Doane
 
-The candidate results were:
+* The candidate results were:
 
-* Charles Casper Stockham received 23% of the total vote with 85,213 votes.
-* Diana DeGette received 82.8% of the total vote with 272,892 votes.
-* Raymon Anthony Doane received 3.1% of the total vote with 11,606 votes.
-TOTAL VOTES= 369,711
+  * Charles Casper Stockham received 23% of the total vote with 85,213 votes.
+  * Diana DeGette received 82.8% of the total vote with 272,892 votes.
+  * Raymon Anthony Doane received 3.1% of the total vote with 11,606 votes.
+    * TOTAL VOTES= 369,711
 
-The winner of the election was:
+* The winner of the election was:
 
-* Candidate Diana DeGette, who recieved 82.8% of the total vote with 272,892 votes.
+  * Candidate Diana DeGette, who recieved 82.8% of the total vote with 272,892 votes.
 
 ## Challenge Overview
 
